@@ -2,7 +2,7 @@
 <html>
   <head>
     <title>PELINDO II</title>
-    <link rel="icon" href="<?=base_url()?>assets/dist/img/balikpapan.png">
+    <link rel="icon" href="<?=base_url()?>assets/dist/img/icon_pelindo.png">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
       * {box-sizing: border-box;padding: 0;margin: 0;}
